@@ -55,6 +55,7 @@ class _HomepageState extends State<Homepage> {
     super.initState();
     _pageController =
         PageController(initialPage: _currentPage); // Initialize the controller
+    print('dhanu');
   }
 
   void _onCarouselPageChanged(int index, CarouselPageChangedReason reason) {
