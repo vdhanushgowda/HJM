@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952788109237",
+    "project_id": "jala-76e1f",
+    "storage_bucket": "jala-76e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952788109237:android:20fb77395ace1bad937bfc",
+        "android_client_info": {
+          "package_name": "com.example.jala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJBc2DUqmhCefBC6QxJejJwr-AU41f2yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
